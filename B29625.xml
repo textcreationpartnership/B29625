@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sence of the French Church concerning the Pope's infallibility and power lately declared by aurhority [sic].</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29625</idno><idno type="EEBO-CITATION">99828773</idno>
+  <idno type="VID">207838</idno>
+  <idno type="EEBO-PROQUEST">2240860829</idno>
+  
+            <idno type="STC">Wing S2550</idno>
+            <idno type="PROQUEST">99828773</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828773e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29625)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207838)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1959:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sence of the French Church concerning the Pope's infallibility and power lately declared by aurhority [sic].</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>At foot of p. 6: Given in Parliament the 22 Ian. 1662/3 signed, Robert Collationed.</note>
+                  <note>Reproduction of the original in the Trinity College (University of Cambridge) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Eglises réformées de France --  Early works to 1800.</term>
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:207838:1"/>
+            <pb n="1" facs="tcp:207838:1"/>
+            <head>The SENCE of the FRENCH CHURCH Concerning the <hi>Pope</hi>'s INFALLIBILITY <hi>and</hi> POWER▪ Lately declared by Authority.</head>
+            <p>SInce the Bishop of <hi>Rome</hi> got so much Authority in the Catholick part of the World, as to be able by his Ministers and Negotiations to attempt to govern private Churches out of his own Metropolitan Diocesse, there has been wag'd a great War amongst Divines about the Quality of his Autho<g ref="char:EOLhyphen"/>rity. And, as man's soul by her powers and operations is two<g ref="char:EOLhyphen"/>fold, of Understanding and Will, speculation and practice; so the Divines questions. The Gates by which such tenets get entrance into the Church are two leav'd; the one opens to the Power the Pope has to command assent to his resolu<g ref="char:EOLhyphen"/>tions of speculative points; the other to what obedience is due to his commands. The party whose interest it is by ap<g ref="char:EOLhyphen"/>plication to the highest See to dilate their own priviledges and exemptions from the ordinary Government of the Church instituted by Christ, and received by continuall tradi<g ref="char:EOLhyphen"/>tion to our dayes, have striven with all their might to possess the World, that both for assent to Christian Truths, and for regulating of Discipline, Christ had given all power to Saint <hi>Peter</hi> and his Successor; so that the whole Hierarchy in effect remain'd in him alone. The rest, as far as not infected by them, maintained constantly the contrary; and that, though the Pope was chief of Bishops, yet the Congregation of Bishops
+<pb n="2" facs="tcp:207838:2"/> was the Court from whence final resolutions were to be ex<g ref="char:EOLhyphen"/>pected. The former tenet had of late gotten a great strength through the most parts of Christendome; but the Divine Providence, when it found it fitting, raised the <hi>French</hi> Church, which at the present is very flourishing, to set a bar to their great advance, as may be seen by the Papers here in<g ref="char:EOLhyphen"/>serted.</p>
+            <div type="rebuttal_to_thesis">
+               <head>The substance of the Advocate General's Plea a<g ref="char:EOLhyphen"/>gainst a Thesis defended in <hi>Sorbon</hi> concerning the Pope's <hi>Infallibility.</hi>
+               </head>
+               <div type="text_of_rebuttal">
+                  <byline>Translated out of the <hi>French</hi> Copy.</byline>
+                  <p>I <hi>Doe</hi> (sayes he) <hi>acknowledge my carelesnesse in having suffered to scape unpunished those horrible blasphemies which the Iesuits vomited out against Iesus Christ, in a Thesis defended the last year in the Colledge of</hi> Clermont, <hi>which maintained that</hi> the Pope was as infallible in mat<g ref="char:EOLhyphen"/>ters both of fact and right as Jesus Christ himself. <hi>Has a greater impie<g ref="char:EOLhyphen"/>ty been heard of! But it is ordinary with them to teach erroneous Do<g ref="char:EOLhyphen"/>ctrines. And I believe 'tis from the impunity of that Crime that the boldnesse has been taken to defend the like Errours in</hi> Sorbon, <hi>against her Statutes, the Doctrine of the</hi> Gallican <hi>Church, and the maxims of State and of this Court. How? That the Pope with five or six ignorant Divines with mercenary souls should be infallible to make Articles of Faith of whatsoever Passion, Interest, or Ambition shall suggest to him. Our Ancestors have seen the fatal consequences and effects of this pernici<g ref="char:EOLhyphen"/>ous doctrine. Wherefore, lest this poyson should spread it self farther, and this pernicious doctrine take root if it be left unpunished, I conclude the Thesis shall be struck out &amp; blotted; the Defendant &amp; President con<g ref="char:EOLhyphen"/>strained to maintain the direct contrary, and the Syndic never to approve such like Theses under pain of being extraordinarily proceeded against. The Pope and Bishops are not Authors of our Faith, but faithfull Guar<g ref="char:EOLhyphen"/>dians, and irrefragable Witnesses of universal Tradition received from hand to hand, from Iesus Christ to us; according to</hi> Vincentius Liri<g ref="char:EOLhyphen"/>nensis: Quod semper, quod ubique, quod ab omnibus creditum est, hoc de side est, &amp;c.</p>
+               </div>
+               <div type="commentary">
+                  <pb n="3" facs="tcp:207838:2"/>
+                  <head>Notes upon it.</head>
+                  <p>Those who are acquainted with the Government of <hi>France,</hi> understand that the Parliament of <hi>Paris</hi> is made of Members given to Learning and reading of Fathers, and to the skill of Languages, particularly Greek and Latine, and by conse<g ref="char:EOLhyphen"/>quence of Church Antiquities; and that the King's Advo<g ref="char:EOLhyphen"/>cate, who at this present is called Monsieur <hi>Talon,</hi> is ordinari<g ref="char:EOLhyphen"/>ly one of the most eminent; and that in matters of Divinity they are tenacious of the Decrees of the <hi>Sorbon,</hi> the greatest Catholick University in our parts of the World, and whose Doctrine passeth for the Doctrine of the Church of <hi>France,</hi> especially their <hi>Ancient Decrees.</hi>
+                  </p>
+                  <p>It is again to be noted, that he saith that the Tenet of the Popes's <hi>Personal Infallibility</hi> in making Doctrines to be of new accepted for Articles of Faith, is against the maxims of the <hi>French Government;</hi> that is, that it toucheth upon Trea<g ref="char:EOLhyphen"/>son, which if it be true in <hi>France,</hi> it can be no lesse true in <hi>En<g ref="char:EOLhyphen"/>gland:</hi> and he cannot be truly loyall to his Countrey, who ob<g ref="char:EOLhyphen"/>stinatetly maintaineth that Errour. The reason is clear: for, if that be true, the Pope may define and oblige Subjects to be<g ref="char:EOLhyphen"/>lieve that he can depose a Prince, and bind his Subjects to take Armes against him, as was insinuated in a Letter confi<g ref="char:EOLhyphen"/>dently reported to have been lately written from <hi>Rome</hi> to <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> by a great man of that Court; though others say the Let<g ref="char:EOLhyphen"/>ter was counterfeited.</p>
+               </div>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Extracted out of a Letter written from</hi> France <hi>to a Person of Quality,</hi>
+               </head>
+               <div type="text_of_letter">
+                  <p>
+                     <hi>The Iesuits having defended formerly that</hi> the Pope hath the same Infallibility with Jesus Christ, <hi>Monsieur</hi> Talon <hi>the Advocate General complained of it publickly in Parliament; remonstrating that this was a most horrible impiety, and highly deserving</hi> open <hi>and</hi> corporal <hi>punish<g ref="char:EOLhyphen"/>ment. Whereupon the Court of the said Parliament has ordained, that the President, the Regent, and the Schollars which maintained it, should</hi>
+                     <pb n="2" facs="tcp:207838:3"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="3" facs="tcp:207838:3"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="4" facs="tcp:207838:4"/>
+                     <hi>appear personally to receive a Reprehension for the first time, and a de<g ref="char:EOLhyphen"/>nouncing of corporal and publick punishment, intended and resolved to be inflicted, in case any of them should relapse into the like blasphemy here<g ref="char:EOLhyphen"/>after.</hi>
+                  </p>
+               </div>
+               <div type="commentary">
+                  <head>Notes upon it.</head>
+                  <p>The Thesis mentioned is that against which was divulged the Paper intituled, <hi>The Iesuits new Heresie:</hi> which insinuates, that the Tenet of the Popes Infallibility was their <hi>former He<g ref="char:EOLhyphen"/>resie;</hi> which is a gentle censure upon a doctrine able to intro<g ref="char:EOLhyphen"/>duce Heresies without number into the Church of God; as is evident to whosoever shall consider how easie it is for a do<g ref="char:EOLhyphen"/>zen of Divines to be either corrupted or deceived: And yet our Faith by this position is made to depend on their science and integrity.</p>
+                  <p>Note again, that the King's Advocate professeth, that the Tenet of the Popes Infallibility in matters of Fact, deserveth <hi>pablick and corporal punishment;</hi> which signifies no lesse than <hi>whipping, banishment,</hi> or some such like punishment: and that it is a crime deserving that the Civil Magistrate ought to take notice of it. This absurdity was invented by the Jesuits, in envy to the great Schollar <hi>Iansenius;</hi> to the end that people might be perswaded he held errours not visible in his Books; of the which they calumniated him, and would prove him guilty of them onely by the Pope's Infallible word defining him to be so; which mad prank of theirs has made such a po<g ref="char:EOLhyphen"/>ther in <hi>France</hi> of late yeares.</p>
+               </div>
+            </div>
+            <div type="Parliamentary_decree">
+               <head>A Decree of the Court of Parliament against A Theological conclusion, intended to have been maintain'd the 19 of <hi>Ianuary</hi> 1662/3 by Monsieur <hi>Gabriel Droüet</hi> of <hi>Ville-nefue</hi> Batchelor. <hi>Given the 22 of</hi> Ianuary 1662/3 <hi>at</hi> Paris.</head>
+               <div type="text_of_decree">
+                  <pb n="5" facs="tcp:207838:4"/>
+                  <byline>Extracted out of the Registers of Parliament, and faith<g ref="char:EOLhyphen"/>fully render'd into <hi>English.</hi>
+                  </byline>
+                  <p>
+                     <hi>THis day the Court having deliberated upon what was by the Kings Council represented the 19. and 20. of this present Moneth, concerning a Thesis intended to have been maintain'd the said 19. day by Monsieur</hi> Gabriel Droüet <hi>of</hi> Ville nefue <hi>in</hi> Britany, <hi>Batchelor in Divinity, at the Act call'd▪</hi> The great Ordinary <hi>of</hi> Sorbon, <hi>which contain'd in its second Position;</hi> Christus Sanctum Petrum ejusque Successores summá supra Ecclesiam Auctoritate donavit▪ Christ gave Saint <hi>Peter</hi> and his successors highest Authority over the Church. <hi>In its third,</hi> Romani Antistites Privilegia quibusdam Ecclesiis sicut Eccle<g ref="char:EOLhyphen"/>siae Gallicanae impertiunt. The Bishops of <hi>Rome</hi> bestow Priviledges upon certain Churches, as upon the <hi>French</hi> Church. <hi>In its eigth,</hi> Concilia Generalia ad extirpandas haereses, schismata, &amp; alia tollenda incommoda admodum sunt utilia, non tamen absolutè necessaria. General Councils are very profitable to extirpate Heresies and Schisms, and to take away other inconveniencies, but not absolutely neces<g ref="char:EOLhyphen"/>sary; <hi>and many other propositions contrary to the Authority of the Church, to the Antient Doctrine always received and con<g ref="char:EOLhyphen"/>served in this Kingdome, to the holy Canons, to the Decrees of General Councils, and to the Liberties of the</hi> Gallican <hi>Church, tending also to exalt the power of the Pope above that of Gene<g ref="char:EOLhyphen"/>ral Councils, and beyond the limits which have always been most Religiously conserved in the Church of</hi> France: <hi>Having heard the Syndic of the faculty of Theology, and Monsieur</hi> Vin<g ref="char:EOLhyphen"/>cent de Meurs, <hi>Doctor in the said Faculty, of the Colledge of</hi>
+                     <pb n="6" facs="tcp:207838:5"/> Navar▪ <hi>who was to preside at the said dispute, and the said</hi> Droüet <hi>the Respondent, who had all been sent for in pursuance of the Decree of the 19. of this Moneth, as also having heard the King's Council in their Conclusions: The Court hath prohibited and forbidden, and doth prohibit and forbid the said</hi> Droüet <hi>to defend the said Thesis: Hath or<g ref="char:EOLhyphen"/>dained, and doth ordain that it be supprest, together with all the rest that shall be found to contain such like propositions: Prohibits and for<g ref="char:EOLhyphen"/>bids all Bachelors, Licenciats and Doctors and other persons to write, defend, and dispute, to read and teach directly or indirectly in the pu<g ref="char:EOLhyphen"/>blick schooles or elsewhere any such like, or other propositions contrary to the ancient doctrine of the Church, to the holy Canons, Decrees of General Councils, to the Liberties of the</hi> Gallican <hi>Church, and to the Ancient Decrees of the Faculty of Theology of</hi> Paris; <hi>under pain to be proceeded against according to their demerits.</hi>
+                  </p>
+                  <p>
+                     <hi>Prohibits the Syndic of the said Faculty, and the Doctors who shall there preside at the Acts, to suffer any such propositions to be inserted in any Thesis.</hi>
+                  </p>
+                  <p>
+                     <hi>Ordains that this present Decree be read at the general Assembly of the said Faculty of Theology to be holden in</hi> Sorbon <hi>the first day which the Court shall command, in the presence of two Counsellors of the said Court; who, together with one of the Substitutes of the King's Attur<g ref="char:EOLhyphen"/>ney General, shall go thither expresly for that purpose. To which Assembly shall be summoned all the Doctors of the said Faculty, as also even the Batchelors of the first Licence. And this Decree shall be Registred in the Registers of the said Faculty, and signified to the Re<g ref="char:EOLhyphen"/>ctors, Deans, and Proctors of the other Faculties, there to be Read and Registred, and sent to other Ʋniversities, as also to the Bayliages and Stewardships of this Jurisdiction, there to be likewise Read, Pu<g ref="char:EOLhyphen"/>blisht, and Registred by the procurement of the Substitutes of the King's Atturney General, who within one Moneth are to make Certificate there<g ref="char:EOLhyphen"/>of to the Court.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Given in Parliament <date>the 22 Ian. 1662/3</date>
+                     </dateline>
+                     <signed>Signed, Robert</signed> Collationed.</closer>
+               </div>
+               <div type="commentary">
+                  <pb n="7" facs="tcp:207838:5"/>
+                  <head>Notes upon it.</head>
+                  <p>The errour of the first Proposition lies in the word <hi>supra, above;</hi> for the <hi>French</hi> Church holds the Pope to have the highest Authority in the Church; that is, over particular men, but not over the <hi>whole Church:</hi> for so it professed in the Council of <hi>Trent</hi> that it was the Faith of <hi>France</hi> received from the Councils of <hi>Constance</hi> and <hi>Basil,</hi> that a General Council is above the Pope, as also hath been practised by di<g ref="char:EOLhyphen"/>vers General Councils.</p>
+                  <p>The errour of the second Proposition is, That the Privi<g ref="char:EOLhyphen"/>ledges of Ancient Churches (such as the <hi>French</hi> Church is) come from the Indulgence of the Pope, and not from the Succession to the Apostles and Apostolical Founders of them and their first institution. The form of which Churches is to be the Rule to all Christian Churches by whomsoever they are founded: nor is it lawfull to bring in new forms without violating Divine Right delivered in the constant Tradition of the Church.</p>
+                  <p>The errour of the third Proposition consisteth in this, That it takes away the Practice of the Church, begun by the Apo<g ref="char:EOLhyphen"/>stles, and continued to the Council of <hi>Trent;</hi> is against ma<g ref="char:EOLhyphen"/>nifest experience, and, in effect, takes away all efficacity of extinguishing Heresies and Shisms, reducing it to the weak principle of the Pope's Infallibility and extraordinary Power; of which enough is above delivered in proportion to these short Notes, to shew how dangerous the mentioned errours are, and how necessary to be condemned and avoided by all good Christians as pernicious both to Church and State.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>Postscript.</head>
+            <p>
+               <hi>Since the faregoing News, 'tis advertis'd that the contrary to the before condemned Theses hath been publickly defended by the Son of Monsieur</hi> Tallier, <hi>one of the chief Ministers of State; the Arch-Bishop of</hi> Paris <hi>himself presiding.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
